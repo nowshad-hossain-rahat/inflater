@@ -1,0 +1,20 @@
+{
+    "name": "nowshad/inflater",
+    "version": "0.0.1",
+    "description": "This is a template engine to parse html templates like Jinja template engine used in Python Flask",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nowshad\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "nowshad-hossain-rahat",
+            "email": "nowshad.hossain.rahat@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
